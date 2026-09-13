@@ -1,15 +1,26 @@
-# Nhân vật 1 — Nhân vật chính
-
-> Tên gợi ý từ hội thoại: **Trần Minh Vũ** (hoặc Nguyễn Lâm Khang).
+# Nhân vật 1 — Nhân vật chính: Trần Anh Tài
 
 ## Vị trí/chức vị
 - Nam, trí thức, độ tuổi 24–26 tại thời điểm bắt đầu truyện.
-- Tốt nghiệp Đại học Bách khoa Hà Nội (ngành Kỹ thuật Vật lý / Kỹ thuật Máy tính / Tự động hóa) — tư duy logic chặt chẽ, giỏi giải mã cấu trúc dữ liệu và mô hình hóa toán học.
-- Không có nghề nghiệp ổn định; làm freelance kỹ thuật cầm chừng, sống tối giản, lối sống "nằm yên" (lying flat).
+- Tốt nghiệp Đại học Bách khoa Hà Nội (ngành Công nghệ thông tin) — tư duy logic cực bén, giỏi giải mã cấu trúc dữ liệu, thuật toán và mô hình hóa toán học.
+- **Công việc thực tế:** Làm chuyên viên kỹ thuật từ xa (Remote Specialist) cho công ty EdTech/Truyền thông số của anh trai. Nhờ khả năng nắm bắt nhanh cảm xúc cạn tầng của đối phương và tư duy kỹ thuật xuất sắc, cậu giải quyết các bài toán hóc búa của công ty chỉ trong 1–2 tiếng thay vì 8 tiếng.
+- Thời gian còn lại sống tối giản, theo đuổi lối sống "nằm yên" (lying flat), đọc tài liệu chuyên sâu và ngủ.
+- Vì có nhiều thời gian rảnh ở nhà, cậu thường xuyên bị anh chị "nhờ" trông cháu và đọc truyện cổ tích ru cháu ngủ trước khi đi ngủ. Đây chính là cơ chế kích hoạt (priming effect) khiến cậu liên tục mơ thấy các bọt đồng thoại dân gian.
 
 ## Nguồn gốc
-- Gia đình tương đối khá giả: bố mẹ viên chức/doanh nhân trung lưu có học thức, đầy đủ; có một người anh trai.
-- Anh trai là hình mẫu "con nhà người ta" — năng động, sự nghiệp thăng tiến, tham vọng lớn; là tấm gương phản chiếu sự "bất động" của nhân vật chính.
+- Gia đình tương đối khá giả: bố mẹ viên chức/doanh nhân trung lưu có học thức, đầy đủ; có một người anh trai thành đạt và một đứa cháu nhỏ.
+- Bị bố mẹ nhìn như một kẻ "lười biếng, ăn bám công việc của anh trai" (trong khi thực tế cậu là người âm thầm gánh các nút thắt kỹ thuật cốt lõi cho công ty của anh).
+
+## Hoàn cảnh khách quan (Di sản Thế chiến II & Bản đồ địa chính trị ngầm)
+- **Bản chất vị thế:** Nhân vật chính không phải cá thể duy nhất có khả năng duy trì ý thức ở sóng Delta (tuy hiếm gặp nhưng luôn tồn tại trong phân phối xác suất sinh học loài người). Những cá thể này là **kênh truyền băng thông siêu rộng** đối với thực thể ngoại lai — là mục tiêu tối ưu để thao túng và truyền thâu thông tin công nghệ chính xác, nhưng cũng chính là điểm khiến ngoại lai từng bị lật kèo, phản công trọng thương trong Thế chiến II.
+- **Di sản lịch sử mờ ảo:** Thế chiến II từng chứng kiến một cuộc bùng nổ công nghệ đột biến khi ngoại lai rót tri thức vào một nhóm cá thể như vậy, nhưng chính nhóm này đã nhận thức được hiểm họa và phản bội nó, phối hợp đánh úp khiến nó bị trọng thương và phe Trục sụp đổ. Hậu quả để lại là một hiệp ước/cơ chế ngầm xuyên quốc gia giám sát hiện tượng này.
+- **Cục diện 4 lập trường thế lực ngoài đời thực:**
+  1. *Phe Cứng rắn (Eradication / Containment):* Coi những cá thể sóng Delta là "cánh cửa mở toang cho kẻ xâm lược", mầm họa diệt vong; chủ trương **phát hiện ở đâu là tiêu diệt triệt để ở đó** (thà giết nhầm hơn bỏ sót).
+  2. *Phe Hòa hoãn (Stewardship / Quarantine):* Coi họ là đồng loại và là "lá chắn miễn dịch tự nhiên"; chủ trương **bảo vệ bí mật nhưng áp đặt giám sát nghiêm ngặt (quarantine)**, sẵn sàng thanh trừng nếu có dấu hiệu bị chiếm đoạt ý thức.
+  3. *Phe Lợi dụng (Exploitation / Technocrats):* Coi họ là "kho báu công nghệ vô giá"; gồm các tổ hợp quân sự, cơ quan tình báo siêu cường và tập đoàn công nghệ ngầm muốn **bắt sống, giam cầm, ép buộc làm ăng-ten trích xuất công nghệ cao** từ biển tiềm thức để mưu cầu bá quyền.
+  4. *Phe Đầu hàng / Thờ phụng (Submission / Cults):* Các giáo phái và nhóm trí thức hư vô tin vào sự vượt trội của văn minh vũ trụ; muốn **bắt giữ để dâng hiến làm vật chủ đoạt xá**, đổi lấy sự thăng hoa giống loài.
+  *(Mỗi phe lại bị phân mảnh thành hàng chục tổ chức, mật vụ, hội kín khắp thế giới với các toan tính mâu thuẫn nhau).*
+- **Áp lực sinh tồn ngầm:** Nếu lộ thân phận, nhân vật chính sẽ ngay lập tức trở thành mục tiêu săn lùng/tiêu diệt của mạng lưới ngầm này. Cậu buộc phải che giấu tuyệt đối năng lực của mình ở thế giới thực, duy trì vỏ bọc "kẻ nằm yên vô hại".
 
 ## Năng lực
 - **Thiên phú: "Tỉnh thức trong giấc ngủ sâu" (NREM Deep Sleep Lucidity)** — duy trì ý thức trọn vẹn ở pha ngủ sâu NREM (Slow-Wave Sleep, sóng Delta), tầng giấc mơ mà người thường không nhớ; có thể thâm nhập và phiêu du trong các bọt giấc mơ sâu.

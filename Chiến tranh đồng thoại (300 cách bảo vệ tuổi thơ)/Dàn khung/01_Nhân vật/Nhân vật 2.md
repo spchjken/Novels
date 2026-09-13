@@ -1,9 +1,11 @@
-# Nhân vật 2 — Anh trai của nhân vật chính
+# Nhân vật 2 — Anh trai: Trần Anh Tuấn
 
 ## Vị trí/chức vị
-- Trụ cột gia đình; hình mẫu "con nhà người ta" điển hình.
-- Năng động, sự nghiệp thăng tiến, tham vọng lớn; kiếm tiền lo cho gia đình để em trai được thảnh thơi "nằm yên".
-- ⚠️ Nghề nghiệp cụ thể chưa được xác định — cần bổ sung.
+- Trụ cột gia đình; hình mẫu "con nhà người ta" điển hình, năng động, sự nghiệp thăng tiến, tham vọng lớn.
+- Đã lập gia đình và có con nhỏ.
+- **Nghề nghiệp:** Giám đốc / Nhà sáng lập một công ty khởi nghiệp trong lĩnh vực **Truyền thông số & Công nghệ giáo dục - giải trí (EdTech / Media Content)** — chuyên phát triển ứng dụng truyện tranh, sách tương tác và nội dung số cho trẻ em.
+- Siêu bận rộn với các hợp đồng, gọi vốn và mở rộng thị trường; thường xuyên "nhờ" cậu em trai rảnh rỗi ở nhà trông cháu và đọc truyện cổ tích ru con ngủ.
+- Thuê chính em trai (NVC) làm **chuyên viên kỹ thuật từ xa (Remote Specialist)** xử lý các bài toán thuật toán và kiến trúc hệ thống hóc búa cho công ty mình.
 
 ## Nguồn gốc
 - Cùng gia đình khá giả với nhân vật chính (bố mẹ viên chức/doanh nhân trung lưu); là anh trai của nhân vật chính.
